@@ -1,0 +1,3 @@
+"/Users/ricardo/Documents/Appcelerator_Studio_Workspace/flashcam-android/android/build/generated/java/pt/flash/cam/android/FlashCamAndroidBootstrap.java"
+"/Users/ricardo/Documents/Appcelerator_Studio_Workspace/flashcam-android/android/src/pt/flash/cam/android/ExampleProxy.java"
+"/Users/ricardo/Documents/Appcelerator_Studio_Workspace/flashcam-android/android/src/pt/flash/cam/android/FlashCamAndroidModule.java"
